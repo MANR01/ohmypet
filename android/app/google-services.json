@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "26139423354",
+    "project_id": "ohmypetauht",
+    "storage_bucket": "ohmypetauht.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26139423354:android:bddb817f533a70177f81c3",
+        "android_client_info": {
+          "package_name": "com.example.ohmypet_res"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26139423354-s94p6498on1jnvaub9mi0klmt60n11jg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ohmypet_res",
+            "certificate_hash": "8a1967779435e77c3e6e14fb497bb2b3400a9008"
+          }
+        },
+        {
+          "client_id": "26139423354-nv7r0kdvnuca67urbvpedk1phmdet257.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQbBE2KPtIGcFPnFPE3TwWfw3SZHOD-vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26139423354-nv7r0kdvnuca67urbvpedk1phmdet257.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "26139423354-np7afn7fjdtl5dsct54fefe6gqpcjhsc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ohmypet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
